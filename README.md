@@ -1,4 +1,4 @@
-# EXCEL-PROJECT-VRINDA_STORE_ANNUAL_ANALYSIS
+# PYTHON-PROJECT-DIWALI_SALES_ANALYSIS
 
 
 **Objective: Improve customer experience by analyzing sales data.**
